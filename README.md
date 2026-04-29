@@ -1,2 +1,2 @@
-# Progstat_in-s_bouchoul
-td et tp de inès
+# Progstat_inès
+TD et TP de inès
